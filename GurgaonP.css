@@ -1,0 +1,241 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+ span{
+    background-color: rgb(69, 238, 69);
+    color: white;
+    
+}
+
+.navbar h1{
+    
+    display: inline-block;
+    margin: 34px;
+}
+
+.navbar a{
+    margin: -8px;
+    padding: 23px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+.navbarr{
+    
+    
+    margin-top: -166px;
+    
+   
+} 
+
+.section1{
+    height: 500px;
+    width: 100%;
+    background-image: url(backside.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.text{
+    height: 100%;
+    display: inline-block;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.text p{
+    color: rgb(49, 159, 250);
+    text-align: center;
+    margin-bottom: -30px;
+    font-size: 25px;
+}
+.text h1{
+    color: rgba(8, 204, 83, 0.897);
+    font-size: 40px;
+    text-align: center;
+    margin-top: 33px;
+}
+.text button{
+    padding: 10px;
+    margin-left: 260px;
+    margin-top: 33px;
+    background-color: #4cf04c;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+.section2{
+    height: 700px;
+    width: 100%;
+    background-image: url(images/about-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card1{
+    height: 60%;
+    width: 35%;
+
+    display: inline-block;
+    margin-left: 6%;
+    margin-top: 17%;
+}
+
+.card1 h1{
+    font-size: 38px;
+}
+.card1 img{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    margin-right: 23px;
+}
+.card2{
+    display: flex;
+}
+.section3{
+    display: flex;
+}
+.card3{
+    height: 900px;
+    width: 450px;
+    background-color: rgb(238, 238, 197);
+    margin-left: 60px;
+}
+.card3 img{
+    height: 74%;
+    width: 100%;
+}
+.card4{
+    height:900px;
+    width: 450px;
+    background-color: rgb(238, 238, 197);
+    margin-left: 35px;
+}
+.card4 img{
+    height: 74%;
+    width: 100%;
+}
+h3{
+    font-size: 30px;
+    margin-top: 163px;
+    margin-left: 100px;
+}
+.section4{
+display: flex;
+
+}
+.card5{
+    height:800px;
+    width: 500px;
+    background-color: rgb(238, 238, 197);
+    margin-left: 35px;
+}
+#image{
+    width: 100%;
+    height: 50%;
+    
+}
+.card6{
+    margin-top: 34px;
+}
+
+.section5{
+    height: 600px;
+    width: 100%;
+    margin-top: 130px;
+    display: flex;
+}
+
+.box1{
+    height: 100%;
+    width: 50%;
+    
+}
+.box1 img{
+    height: 70%;
+    width: 76%;
+    margin: 34px;
+}
+
+
+
+
+
+.box2{
+    height: 100%;
+    width: 50%;
+   
+}
+.box2 input{
+margin: 23px;
+padding: 7px;
+border: none;
+
+}
+.box2 textarea{
+    margin-top: 20px;
+    margin-left: 70px;
+    text-align: center;
+}
+.box2 button{
+    padding: 20px;
+    margin-top: 23px;
+    width: 47%;
+    background-color: #6de06d;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+
+.section6{
+    height: 420px;
+    width: 100%;
+    background-color: rgb(187, 182, 182);
+}
+.section6 img{
+    width: 20%;
+    height: 100%;
+    margin-left: 67%;
+}
+.section7{
+    display: flex;
+    margin: 23px;
+    margin-top: 100px;
+}
+.card7{
+        height:500px;
+        width: 300px;
+        background-color: rgb(238, 238, 197);
+        margin-left: 35px;  
+        
+  
+}
+.card8 img{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    margin-right: 23px;
+    display: inline-block;
+}
+.futter{
+    width: 100%;
+    height: 250px;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    display: flex;
+}
+.futter h4{
+    color: rgb(100, 88, 88);
+   padding-top: 70px;
+    margin-left: 123px;
+}

@@ -1,0 +1,204 @@
+@media(min-width: 200px) and (max-width:300px){
+
+
+    .section1{
+        height: 270px;
+        width: 100%;
+        background-image: url(backside.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+
+    .t{
+        display: none;
+    }
+    .text{
+        height: 100%;
+        display: inline-block;
+        margin-left: 2%;
+        margin-top: 12%;
+    }
+    .text p{
+        color: rgb(49, 159, 250);
+        text-align: center;
+        margin-bottom: -30px;
+        font-size: 15px;
+    }
+    .text h1{
+        color: rgba(8, 204, 83, 0.897);
+        font-size: 20px;
+        text-align: center;
+        margin-top: 33px;
+    }
+    .text button{
+        padding: 0px;
+        margin-left: 50px;
+        margin-top: 33px;
+        background-color: #4cf04c;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    .navbarr{
+    
+    
+        margin-top: -80px;
+        
+       
+    } 
+
+ 
+}
+@media(min-width: 300px) and (max-width:400px){
+
+
+   
+
+    .section1{
+        height: 300px;
+        width: 100%;
+        background-image: url(backside.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+    .text{
+        height: 100%;
+        display: inline-block;
+        margin-left: 1%;
+        margin-top: 10%;
+    }
+    .text p{
+        color: rgb(49, 159, 250);
+        text-align: center;
+        margin-bottom: -30px;
+        font-size: 15px;
+    }
+    .text h1{
+        color: rgba(8, 204, 83, 0.897);
+        font-size: 25px;
+        text-align: center;
+        margin-top: 33px;
+    }
+    .text button{
+        padding: 0px;
+        margin-left: 100px;
+        margin-top: 20px;
+        background-color: #4cf04c;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .navbarr{
+    
+    
+        margin-top: -80px;
+        
+       
+    } 
+    
+   
+}
+@media(min-width: 400px) and (max-width:500px){
+
+    .section1{
+        height: 350px;
+        width: 100%;
+        background-image: url(backside.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+    .text{
+        height: 100%;
+        display: inline-block;
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    .text p{
+        color: rgb(49, 159, 250);
+        text-align: center;
+        margin-bottom: -30px;
+        font-size: 15px;
+    }
+    .text h1{
+        color: rgba(8, 204, 83, 0.897);
+        font-size: 25px;
+        text-align: center;
+        margin-top: 33px;
+    }
+    .text button{
+        padding: 10px;
+        margin-left: 100px;
+        margin-top: 33px;
+        background-color: #4cf04c;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    .navbarr{
+    
+    
+        margin-top: -50px;
+        
+       
+    } 
+    
+}
+@media(min-width: 500px) and (max-width:600px){
+
+
+    .section1{
+        height: 400px;
+        width: 100%;
+        background-image: url(backside.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+    .text{
+        height: 100%;
+        display: inline-block;
+        margin-left: 10%;
+        margin-top: 15%;
+    }
+    .text p{
+        color: rgb(49, 159, 250);
+        text-align: center;
+        margin-bottom: -30px;
+        font-size: 20px;
+    }
+    .text h1{
+        color: rgba(8, 204, 83, 0.897);
+        font-size: 30px;
+        text-align: center;
+        margin-top: 33px;
+    }
+    .text button{
+        padding: 10px;
+        margin-left: 160px;
+        margin-top: 33px;
+        background-color: #4cf04c;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+    .navbarr{
+    
+    
+        margin-top: -100px;
+        
+       
+    } 
+
+}
